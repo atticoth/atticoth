@@ -5,10 +5,8 @@ Aqui irei postar diversos trabalhos e projetos que venho desenvolvendo/estudando
 
 ### Principais Tecnologias:
 
-- HTML
-- CSS
-- Javascript
-- C#
+- .NET e .NET Core
 - SQL Server
 - Git e Github
-
+- HTML e CSS
+- JS e TS
